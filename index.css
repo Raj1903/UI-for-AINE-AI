@@ -50,9 +50,7 @@ body{
   display: block;
 }
 
-/*.wrapper .sidebar ul li a .fas{
-  width: 25px;
-}*/
+
 
 .wrapper .sidebar ul li:hover{
   background-color: #cce6ff;
@@ -69,7 +67,7 @@ body{
   padding: 20px;
   background: #fff;
   color: #717171;
-  /*border-bottom: 1px solid #e0e4e8;*/
+  
 }
 .wrapper .main_content .video{
   margin-left: 2%;
